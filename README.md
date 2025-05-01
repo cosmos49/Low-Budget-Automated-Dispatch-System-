@@ -6,6 +6,8 @@ A cost-effective automated dispatch system using an STM32 microcontroller, RC522
 
 This system uses RFID authentication to trigger dispatch events. It can identify users or resources via RFID tags and display their status on an I2C LCD. Built on STM32 for improved performance and cost-efficiency.
 
+
+
 ## 🔧 Features
 
 - ✅ STM32 microcontroller-based (e.g., STM32F401CCU6)
